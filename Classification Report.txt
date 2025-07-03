@@ -1,0 +1,10 @@
+📝 Classification Report:
+              precision    recall  f1-score   support
+
+  Azaz_Image       1.00      0.88      0.93        48
+Khalid_Image       0.71      1.00      0.83        12
+ Samar_Image       0.96      1.00      0.98        24
+
+    accuracy                           0.93        84
+   macro avg       0.89      0.96      0.91        84
+weighted avg       0.95      0.93      0.93        84
